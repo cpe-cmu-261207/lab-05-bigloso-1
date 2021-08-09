@@ -14,7 +14,7 @@ function App() {
       </div> 
 
       {/* footer section */}
-      <p className='text-center text-gray-400'> 2021 Lab05 261207 by Nitipong Saengla </p>
+      <p className='text-center font-serif text-gray-400'> 2021 Lab05 261207 by Nitipong Saengla </p>
     </div>
   );
 }
