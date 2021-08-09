@@ -59,7 +59,7 @@ const TodoList = () => {
          <div className='flex space-x-1'>
         <input className='border border-gray-400 w-full text-2xl'
           onChange={onChangeCallback} onKeyDown={onKeyDownCallback} ></input>
-        <button className='border border-gray-400 w-8 font-bold' onClick={() => addTask(curTask)}>+</button>
+        <button className='border border-gray-400 w-8 font-serif' onClick={() => addTask(curTask)}>+</button>
       </div> 
 
     <div className="flex flex-col-reverse">
